@@ -10,7 +10,7 @@ The findings from this project hold significant implications for biodiversity co
 
 ## Team :couple: :people_hugging:
 
-This project which was done by a team of 2 contains the entire documentation of the process. The links to the respective notebooks can be found in the documentation PDF itself. Sayan Pal was the other contributor.
+This project which was done by a team of 2 contains the entire documentation of the process. The links to the respective notebooks can be found in the documentation PDF itself. 
 
 ## Objectives  🥅
 
